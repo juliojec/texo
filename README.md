@@ -8,10 +8,10 @@ You can run your application in dev mode that enables live coding using:
 # texo http requests
 
 Take the intervals  
-http://localhost/movie/interval
+http://localhost:8080/movie/interval
 
 List of films
-http://localhost/movie/list
+http://localhost:8080/movie/list
 
 ## Packaging and running the application
 
